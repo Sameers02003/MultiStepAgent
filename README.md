@@ -53,3 +53,4 @@ Add a short note like:
 - Use real LLM API with temperature control
 - Add richer constraint checks (e.g. overlapping slots)
 - Deploy with FastAPI for web demo
+
